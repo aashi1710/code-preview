@@ -1,8 +1,8 @@
-#CODE PREVIEW, Real-time Code Visualizer
+# CODE PREVIEW, Real-time Code Visualizer
 •Enabled users to write HTML, CSS, and JavaScript
-code.
-•Facilitated immediate visualization of code output.
-•Promoted interactive learning and experimentation.
+code
+•Facilitated immediate visualization of code output
+•Promoted interactive learning and experimentation
 •Tech Stack: HTML | CSS | JavaScript | ReactJs
 
 <img width="946" alt="image" src="https://github.com/aashi1710/code-preview/assets/98670263/17b9681e-227f-41f5-8ed3-f0284ecda0e0">
