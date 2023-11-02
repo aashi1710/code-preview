@@ -5,10 +5,14 @@ code
 •Promoted interactive learning and experimentation
 •Tech Stack: HTML | CSS | JavaScript | ReactJs
 
-<img width="946" alt="image" src="https://github.com/aashi1710/code-preview/assets/98670263/17b9681e-227f-41f5-8ed3-f0284ecda0e0">
+## Input
+<img width="945" alt="image" src="https://github.com/aashi1710/code-preview/assets/98670263/8e71cdfb-521d-4629-9fd9-c47357225e1f">
+<img width="946" alt="image" src="https://github.com/aashi1710/code-preview/assets/98670263/ce2e02b1-6d3b-4afc-94e3-a141c3931714">
 
-
-
+## Output
+<img width="932" alt="image" src="https://github.com/aashi1710/code-preview/assets/98670263/e2ae6ec5-0ad6-4514-a049-d7f7f1d54f52">
+<img width="935" alt="image" src="https://github.com/aashi1710/code-preview/assets/98670263/51a2d7f5-19d2-4e0b-bbaa-c7e083526e08">
+<img width="935" alt="image" src="https://github.com/aashi1710/code-preview/assets/98670263/a28bd39a-dc92-4fbc-a189-bd0a4e7eaa47">
 
 # Getting Started with Create React App
 
